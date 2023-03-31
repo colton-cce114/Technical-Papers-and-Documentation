@@ -9,7 +9,7 @@
   Mississippi State University I took classes in Artificial
   Intelligence and Artificial Intelligencee in Robotics. 
  
-##Decisions Made and the Consequences of Chernobyl
+## Decisions Made and the Consequences of Chernobyl
   This paper is of a lesser quality when compared to the previous 
   entry as the time I was allowed to refine it was reduced. Still, 
   the technical analysis of the event is brief, humanizing, and easy 
